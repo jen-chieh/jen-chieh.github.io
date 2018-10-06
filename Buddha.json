@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-export const budda = [
+[
 {
 	name:'中央大日如來',
 	speak:'嗡。別炸達都。泛。'
@@ -25,7 +19,3 @@ export const budda = [
 
 }
 ]
-
-
-</body>
-</html>
